@@ -1,6 +1,6 @@
 # F_M-HTML-JEVG
 
-## Prácticas HTML------ > LA PAGINA CORRECTA STA EN: https://joseemmanuelvg.github.io/
+## Prácticas HTML------ > LA PAGINA CORRECTA ESTA EN: https://joseemmanuelvg.github.io/
 ![Image text](https://github.com/JoseEmmanuelVG/F_M-HTML-JEVG/blob/main/LOGO_SPACE-STEL_JEVG.png)
 
 ### Caso: Pastelería
